@@ -1,1 +1,1 @@
-﻿<%@ServiceHost Service="wcf.MyService" Language="C#" %>
+﻿<%@ServiceHost Service="wcf.MyService" Language="C#"%>
